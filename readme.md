@@ -1,3 +1,3 @@
  - analytics data of [@cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) main repository
-
+  - From Feb 25 2011 to Dec 31 2015
  - using [@hoxu/gitstats](https://github.com/hoxu/gitstats)
