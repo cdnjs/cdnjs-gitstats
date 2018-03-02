@@ -1,4 +1,4 @@
  - analytics data of [@cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) main repository
-  - From Feb 25 2011 to Jan 31 2018 (https://github.com/cdnjs/cdnjs/commit/3fffcb953e00655bb3abbe3023e97c481992f281 to https://github.com/cdnjs/cdnjs/commit/c4a8aee59a36116d317400f25a2c6707a73bc3f5)
+  - From Feb 25 2011 to Feb 28 2018 (https://github.com/cdnjs/cdnjs/commit/3fffcb953e00655bb3abbe3023e97c481992f281 to https://github.com/cdnjs/cdnjs/commit/1290ba101183b67a5d2f18df51f033c31e43769b)
  - using [@hoxu/gitstats](https://github.com/hoxu/gitstats)
  - html minify via [@yize/html-minify](https://github.com/yize/html-minify)
